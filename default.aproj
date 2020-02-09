@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project ver="10" name="fsr-cli" libEmbed="true" icon="..." ui="console" output="fsr-cli.exe" CompanyName="xw" FileDescription="视频录制工具" LegalCopyright="Copyright (C) zipt 2020" ProductName="cli" InternalName="cli" FileVersion="0.0.0.34" ProductVersion="0.0.0.34" publishDir="/dist/" dstrip="false" local="false">
+	<file name="main.aardio" path="main.aardio" comment="启动程序代码"/>
+</project>
