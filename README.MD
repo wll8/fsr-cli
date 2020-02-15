@@ -10,7 +10,7 @@
 
 
 ``` bat
-fsr-cli :: 设置, 以UI方式启动视频录制器, 并进行好所需设
+fsr-cli :: 设置, 以UI方式启动视频录制器, 并进行好所需设置
 fsr-cli action=start :: 录制, 开始录制视频
 fsr-cli action=stop out=file :: 停止, 停止录制视频, 并保存文件名为 file
 ```
